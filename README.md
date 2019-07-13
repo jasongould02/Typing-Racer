@@ -4,7 +4,7 @@ Try to type each word before it reaches the right side of the screen.
 
 This program uses the Java Swing library to do graphics.
 
-Be sure to keep the dictionary.txt beside the .jar file when running.
+Be sure to keep the dictionary.txt in the same folder as the .jar file when running.
 
 ![gamepic](https://github.com/jasongould02/Typing-Racer/blob/master/type-racer-picture.jpg)
 
